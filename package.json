@@ -1,0 +1,46 @@
+{
+  "name": "temp-mail-detector",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^3.9.0",
+    "@radix-ui/react-label": "^2.1.0",
+    "@radix-ui/react-slot": "^1.1.0",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
+    "dns": "^0.2.2",
+    "domain-info": "^0.1.2",
+    "lucide-react": "^0.446.0",
+    "net": "^1.0.2",
+    "next": "14.2.13",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-hook-form": "^7.53.0",
+    "tailwind-merge": "^2.5.2",
+    "tailwindcss-animate": "^1.0.7",
+    "whois": "^2.14.2",
+    "whois-api": "^1.0.2",
+    "whois-es6": "^1.2.0",
+    "whois-json": "^2.0.4",
+    "whois-lib": "^1.0.5",
+    "whoiser": "^1.18.0",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@types/whois-json": "^2.0.4",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.13",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}
